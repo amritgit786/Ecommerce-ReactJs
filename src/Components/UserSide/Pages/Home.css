@@ -1,0 +1,30 @@
+.navbar-header {
+  height: 65px;
+  margin-top: -1px;
+  padding: 0 30px;
+}
+.navbar-height {
+  height: 410px;
+}
+.carousel-height {
+  max-width: 700px;
+}
+.carousel-button {
+  width: 45px;
+  height: 45px;
+}
+.product-style {
+  padding: 30px;
+}
+.product-z-index {
+  z-index: 1;
+}
+.inner-carousel-style {
+  width: 179.667px;
+  margin-right: 29px;
+}
+.carousel-stage {
+  transform: translate3d(-1252px, 0px, 0px);
+  transition: all 1s ease 0s;
+  width: 4174px;
+}
